@@ -1,3 +1,3 @@
-var posts=["2024/08/07/hello-world/","2024/08/08/Linux_DirStruct/","2024/08/08/Linux_UserCommand/"];function toRandomPost(){
+var posts=["artciles/2024/585b44c/","artciles/2024/ba1f84a6/","artciles/2024/4a17b156/"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };
